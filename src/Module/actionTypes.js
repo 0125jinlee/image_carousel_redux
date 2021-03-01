@@ -1,0 +1,2 @@
+export const NEXT_BTN_CLICKED = "NEXT_BTN_CLICKED";
+export const PREV_BTN_CLICKED = "PREV_BTN_CLICKED";

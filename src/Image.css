@@ -1,0 +1,13 @@
+.PrevImage .MidImage .NextImage {
+  transition: transform, opacity 250ms;
+}
+
+.PrevImage {
+  transform: translateX(-100%);
+  opacity: 0;
+}
+
+.NextImage {
+  transform: translateX(100%);
+  opacity: 0;
+}
